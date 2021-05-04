@@ -9,8 +9,8 @@ h1, h2, p {
 h1 {
 	text-align: center;
 	color: blue;
-	font-family: 'DancingScriptRegular‘;
-	font-size: 400%;}
+	font-size: 400%;
+	font-family: 'DancingScriptRegular‘;}
 p {
 	font-family: 'DancingScriptRegular';
 	font-weight: normal;
